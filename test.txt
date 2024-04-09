@@ -1,0 +1,5 @@
+bug-fixes & new enhancements:
+
+ 1. Fix "Replace All" action not notifying plugins of modification regression by adding NPPN_GLOBALMODIFIED.
+ 2. Fix plugins not receiving some Scintilla notification types regression.
+ 3. Fix Shortcut Mapper pontential crash problem.
